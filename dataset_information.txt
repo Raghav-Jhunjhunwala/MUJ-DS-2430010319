@@ -1,0 +1,5 @@
+Dataset : California Housing (1990 US census, block groups)
+Source  : sklearn.datasets.fetch_california_housing (downloaded automatically; no file stored in repo)
+Samples : 20,640   Raw features: 8 (MedInc, HouseAge, AveRooms, AveBedrms, Population, AveOccup, Latitude, Longitude)
+Target  : MedHouseVal (in $100k) -> binarised: 1 if >= dataset median, else 0
+Reference: Pace & Barry (1997), "Sparse spatial autoregressions", Statistics & Probability Letters.
