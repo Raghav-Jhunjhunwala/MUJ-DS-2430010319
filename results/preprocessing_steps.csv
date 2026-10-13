@@ -1,0 +1,6 @@
+Step,Detail
+Task,Binary: MedHouseVal >= median
+Features used,21 (geo)
+Split,"60/20/20 stratified, seed 42"
+Scaling,"QuantileTransformer(n_quantiles=1000, normal)"
+Leakage control,scaler fitted on train only

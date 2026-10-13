@@ -1,0 +1,4 @@
+Split,Samples,Percent,Class0,Class1
+Train,12384,60.0,6189,6195
+Validation,4128,20.0,2063,2065
+Test,4128,20.0,2063,2065
