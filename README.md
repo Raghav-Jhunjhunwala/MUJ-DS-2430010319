@@ -1,6 +1,6 @@
 # TabM-mini with Geo-Feature Engineering on California Housing
 
-> **Batch F – NLP/Deep Learning Capstone (Manipal University Jaipur)**
+> **Batch D – NLP/Deep Learning Capstone (Manipal University Jaipur)**
 
 ## 1. Student Details
 
@@ -9,11 +9,11 @@
 | Name | `Raghav Jhunjhunwala` |
 | Registration Number | `2430010319` |
 | Branch | `Data-Science` |
-| Batch | F |
+| Batch | D |
 | GitHub Username | `Raghav-Jhunjhunwala` |
-| Training Program | `Data Science & Deep Learning Capstone Training Program (Batch F)` |
+| Training Program | `Data Science & Deep Learning Capstone Training Program ` |
 | Project Title | TabM-mini (parameter-efficient deep ensemble) with Geographic Feature Engineering for California Housing Price Classification |
-| Capstone (team) repo | `<URL>` |
+
 
 ## 2. Dataset
 
