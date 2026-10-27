@@ -1,2 +1,2 @@
-Source code is in `../src/` (kept there to match the ZIP layout required by the evaluation guidelines).
+Source code is in `../src/` 
 Entry point: `bash code/run_all.sh`.
