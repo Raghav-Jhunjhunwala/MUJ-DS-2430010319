@@ -1,7 +1,7 @@
 # Installation Guide
 
 Project: **TabM-mini with Geographic Feature Engineering on California Housing**
-Author: Raghav Jhunjhunwala (Reg. No. 2430010319), Batch F
+Author: Raghav Jhunjhunwala (Reg. No. 2430010319), Batch D
 
 ## 1. Requirements
 
